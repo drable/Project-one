@@ -1,6 +1,6 @@
 # Project-one
 
-I'm not quite sure what this project will be yet.
+I'm not quite sure what this project will be yet; The project will probably be something simple, as its my first.
 
 Ideas: 
  <ul>
@@ -9,5 +9,5 @@ Ideas:
   <li>Unit converter</li>
   <li>Alphbatise paragraphs of text</li>
   <li>Random Name generator</li>
-  <li></li>
+  <li>News spider</li>
 </ul>
