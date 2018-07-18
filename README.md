@@ -2,16 +2,24 @@
 This project is using JAVA.</br>
 <h3>scope</h3>
 <b>Primary objective:</b>
-</ul>
+<ul>
  <li>Get a basic GUI running</li>
  <li>Use a random number generater to select words from a list</li>
 </ul></br>
 
 <b>Secondary objectives:</b>
-</ul>
+<ul>
  <li>Lock in parts of a name</li>
  <li>Several catagories of names to pick from</li>
  <li>copy to clipboard button</li>
 </ul></br>
 
 This project is being made to help me take the edge off of my haitus from coding, to improve my coding, and to help me become familiar with GIT
+
+
+<b>Progress!</b>
+<ul>
+<li> Made a window - needs a button and dialogue box
+<li> Made a random name generator - need to connect to a button - need to add more name parts
+<li>
+</ul>
